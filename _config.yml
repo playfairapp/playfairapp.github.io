@@ -1,3 +1,9 @@
 name: Your New Jekyll Site
 markdown: redcarpet
 pygments: true
+baseurl: ""
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - s3_website.yml
