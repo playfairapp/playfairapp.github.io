@@ -1,1 +1,6 @@
 _site
+vendor/bin
+vendor/doc
+vendor/gems
+vendor/specifications
+.bundle/
